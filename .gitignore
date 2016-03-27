@@ -25,8 +25,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-Node modules directory
+# Node files
 node_modules
+.node-version
 
 # Compiled CSS file
 css/main.css
