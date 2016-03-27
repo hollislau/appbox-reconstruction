@@ -8,6 +8,6 @@ The deployed prototype can be viewed [here](http://utopian-whistle.surge.sh).
 
 - Semantic, accessible HTML
 - A [style guide](STYLE_GUIDE.md) with font styles, color palette, and core UI element Sass maps used as reference throughout the project to enhance consistency.
-- A flexible and scalable [component library architecture](../,,/tree/master/sass).
+- A flexible and scalable [component library architecture](../../tree/master/sass).
 - [UI components](COMPONENTS.md) created with advanced Sass techniques to promote sustainable, modular CSS
 - [Swiper](http://www.idangero.us/swiper), a lightweight jQuery plugin, for interactive slider integration
